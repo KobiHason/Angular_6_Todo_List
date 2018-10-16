@@ -1,3 +1,7 @@
+## ScreenShot 
+![ScreenShot](https://raw.githubusercontent.com/KobiHason/Angular_6_Todo_List/master/2.PNG)
+
+
 # Angular6ToDoCrud
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
